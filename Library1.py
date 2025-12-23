@@ -1,1 +1,1 @@
-print("Welcome to library Managent");
+print("Welcome to library Management");
