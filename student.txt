@@ -1,1 +1,4 @@
-This is an Student Record File.
+Student Registration Module
+Name      : Pooja.P
+Roll No   : 23MIS0264
+Department: Software Engineering.
