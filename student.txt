@@ -2,3 +2,7 @@ Student Registration Module
 Name      : Pooja.P
 Roll No   : 23MIS0264
 Department: Software Engineering.
+Email     : pooja.p123@gmail.com
+Phone     :7869289731
+Address   :Chennai
+Guardian : Father
